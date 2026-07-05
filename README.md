@@ -177,8 +177,7 @@ Include screenshots of:
 
 # 🌐 Live Demo
 
-```
-https://ckd-prediction-system-mu.vercel.app/```
+https://ckd-prediction-system-mu.vercel.app/
 
 ---
 
