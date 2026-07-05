@@ -177,11 +177,8 @@ Include screenshots of:
 
 # 🌐 Live Demo
 
-Replace the following URL with your Vercel deployment link:
-
 ```
-https://your-project-name.vercel.app
-```
+https://ckd-prediction-system-mu.vercel.app/```
 
 ---
 
